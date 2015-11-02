@@ -5,6 +5,7 @@ import Destructuring from "./examples/destructuring/index.jsx";
 import Generators from "./examples/generators/index.jsx";
 import ObjectLiterals from "./examples/object-literals/index.jsx";
 import SpreadOperator from "./examples/spread-operator/index.jsx";
+import TemplateLiterals from "./examples/template-literals/index.jsx";
 
 export default [{
   name: "Arrow functions",
@@ -27,4 +28,7 @@ export default [{
 }, {
   name: "Spread operator",
   example: SpreadOperator
+}, {
+  name: "Template literals",
+  example: TemplateLiterals
 }];

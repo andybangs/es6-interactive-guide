@@ -1,0 +1,6 @@
+const firstName = "Foo";
+const lastName = "Bar";
+
+const a = `Full name: ${firstName} ${lastName}`;
+
+console.log(a);
